@@ -18,7 +18,7 @@ const Portfolio = () => {
       id: 2,
       src: ecommerce,
       github:'https://github.com/HimanshuDeveloperr/e-commerce.git',
-          demo:"https://inspiring-khapse-6eaba6.netlify.app/"
+          demo:"https://zippy-gumption-ec4114.netlify.app/"
     },
     {
       id: 3,
