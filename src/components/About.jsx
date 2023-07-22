@@ -8,11 +8,11 @@ const About = () => {
     >
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
         <div className="pb-8">
-          <p className="text-4xl font-bold inline border-b-4 border-gray-500">
+          <p className="text-2xl font-bold inline border-b-4 border-gray-500">
             About
           </p>
         </div>
-        <p className="text-xl mt-20">
+        <p className="text-xl mt-1">
         For me, coding is not just a job or a means to an end; it is a way to bring my imagination to reality and understand how people think.
         As I delved deeper into the world of programming, I realized that frontend development resonated with me the most. The frontend is where creativity meets functionality, where aesthetics blend seamlessly with user experience.
         </p>
